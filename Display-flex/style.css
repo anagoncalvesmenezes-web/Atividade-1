@@ -1,0 +1,38 @@
+.container{
+   display:flex;
+   flex-flow: row wrap;
+   color: blueviolet;
+   background-color: rgb(231, 217, 245);
+   width: 90%;
+}
+.col60{
+    width:60%;
+    margin: 0;
+    padding: 0%;
+}
+
+.col40{
+    width:40%;
+    margin: 0;
+    padding: 0%;
+}
+
+.bloco_1{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    align-content:center;
+}
+
+.bloco_2{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    align-content:center;
+}
+  
+.description{
+    margin-top: 10px;
+    font-family: "roboto","verdana", sans-serif;
+}
+
